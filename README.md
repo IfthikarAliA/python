@@ -1,2 +1,2 @@
 # python
-**Simple Logics in Python**
+<font size="10">**Simple Logics in Python**</font>
