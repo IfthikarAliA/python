@@ -1,2 +1,2 @@
 # python
-Simple Logics in Python
+**Simple Logics in Python**
